@@ -24,7 +24,7 @@ Built using **HTML5** and **CSS3** as part of the *freeCodeCamp Responsive Web D
 ---
 
 ## 🚀 Live Demo
-🔗 [Tribute Page to Dr. A.P.J. Abdul Kalam](https://nireesha0521.github.io/freeCodeCamp-TributePage/)
+🔗 [Tribute Page to Dr. A.P.J. Abdul Kalam](https://nireesha0521.github.io/TributePage-DrAPJAbdulKalam/)
 
 ---
 
